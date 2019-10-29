@@ -1,7 +1,8 @@
+This app is not maintained anymore. Click here to download the [official client](https://www.whatsapp.com/download?lang=en)
+
+
 # Whatsie
 
-[![Linux builds](https://circleci.com/gh/Aluxian/Whatsie/tree/staging.svg?style=shield)](https://circleci.com/gh/Aluxian/Whatsie)
-[![Downloads total](https://updates.whatsie.chat/badge/downloads.svg)](https://updates.whatsie.chat/stats)
 [![Services status](https://img.shields.io/badge/services-status-blue.svg)](https://status.whatsie.chat/)
 [![HuBoard task board](https://img.shields.io/badge/hu-board-7965cc.svg)](https://huboard.com/Aluxian/Whatsie)
 [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/Whatsie)
@@ -37,7 +38,7 @@ If you want to help me make Whatsie better, I recommend `dev` or `beta`. Let's g
 
 *Ubuntu, Debian 8+ (deb package):*
 
-1. Download [whatsie-x.x.x-linux-arch.deb][LR]
+1. Download [whatsie-x.x.x-linux-arch.deb][LR] [NOT WORKING]
 2. Double click and install, or run `dpkg -i whatsie-x.x.x-linux-arch.deb` in the terminal
 3. Start the app with your app launcher or by running `whatsie` in a terminal
 4. Done! The app will NOT update automatically, but you can still check for updates
@@ -60,7 +61,7 @@ sudo apt-get install whatsie
 
 *Fedora, CentOS, Red Hat (RPM package):*
 
-1. Download [whatsie-x.x.x-linux-arch.rpm][LR]
+1. Download [whatsie-x.x.x-linux-arch.rpm][LR] [NOT WORKING]
 2. Double click and install, or run `rpm -ivh whatsie-x.x.x-linux-arch.rpm` in the terminal
 3. Start the app with your app launcher or by running `whatsie` in a terminal
 4. Done! The app will NOT update automatically, but you can still check for updates
@@ -82,9 +83,9 @@ sudo yum install whatsie.x86_64   # for 64-bit distros
 3. Start the app with your app launcher or by running `whatsie` in a terminal
 3. Done! The app will NOT update automatically, but you can still check for updates
 
-Repository URL: https://aur.archlinux.org/packages/whatsie/
+Repository URL: https://aur.archlinux.org/packages/whatsie/ [NOT WORKING]
 
-[LR]: https://github.com/Aluxian/Whatsie/releases
+[LR]: https://github.com/Aluxian/Whatsie/releases [NOT WORKING]
 
 # For Developers
 
