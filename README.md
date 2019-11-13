@@ -1,14 +1,13 @@
+This app is not maintained anymore. Click here to download the [official client](https://www.whatsapp.com/download?lang=en)
+
+
 # Whatsie
 
-[![OS X build](https://travis-ci.org/Aluxian/Whatsie.svg?branch=staging)](https://travis-ci.org/Aluxian/Whatsie)
-[![Windows build](https://ci.appveyor.com/api/projects/status/6vborc92ob25kqe0/branch/staging?svg=true)](https://ci.appveyor.com/project/Aluxian/Whatsie)
-[![Linux builds](https://circleci.com/gh/Aluxian/Whatsie/tree/staging.svg?style=shield)](https://circleci.com/gh/Aluxian/Whatsie)
-[![Downloads total](https://updates.whatsie.chat/badge/downloads.svg)](https://updates.whatsie.chat/stats)
 [![Services status](https://img.shields.io/badge/services-status-blue.svg)](https://status.whatsie.chat/)
 [![HuBoard task board](https://img.shields.io/badge/hu-board-7965cc.svg)](https://huboard.com/Aluxian/Whatsie)
 [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/Whatsie)
 
-A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
+A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
 
 Whatsie is still in beta, so some features might not work properly. Bug reports and feature suggestions are welcome. Please check for updates here regularly in case the update process breaks and your installed version can't update by itself.
 
@@ -35,31 +34,11 @@ Whatsie is still in beta, so some features might not work properly. Bug reports 
 
 If you want to help me make Whatsie better, I recommend `dev` or `beta`. Let's go!
 
-### OS X
-
-1. Download [whatsie-x.x.x-osx.dmg][LR] or [whatsie-x.x.x-osx.zip][LR]
-2. Open or unzip the file and drag the app into the `Applications` folder
-3. Done! The app will update automatically
-
-### Windows
-
-*Installer (recommended):*
-
-1. Download [whatsie-x.x.x-win32-setup.exe][LR]
-2. Run the installer, wait until it finishes
-3. Done! The app will update automatically
-
-*Portable:*
-
-1. Download [whatsie-x.x.x-win32-portable.zip][LR]
-2. Extract the zip wherever you want (e.g. a flash drive) and run the app from there
-3. Done! The app will NOT update automatically, but you can still check for updates
-
 ### Linux
 
 *Ubuntu, Debian 8+ (deb package):*
 
-1. Download [whatsie-x.x.x-linux-arch.deb][LR]
+1. Download [whatsie-x.x.x-linux-arch.deb][LR] [NOT WORKING]
 2. Double click and install, or run `dpkg -i whatsie-x.x.x-linux-arch.deb` in the terminal
 3. Start the app with your app launcher or by running `whatsie` in a terminal
 4. Done! The app will NOT update automatically, but you can still check for updates
@@ -82,7 +61,7 @@ sudo apt-get install whatsie
 
 *Fedora, CentOS, Red Hat (RPM package):*
 
-1. Download [whatsie-x.x.x-linux-arch.rpm][LR]
+1. Download [whatsie-x.x.x-linux-arch.rpm][LR] [NOT WORKING]
 2. Double click and install, or run `rpm -ivh whatsie-x.x.x-linux-arch.rpm` in the terminal
 3. Start the app with your app launcher or by running `whatsie` in a terminal
 4. Done! The app will NOT update automatically, but you can still check for updates
@@ -104,9 +83,9 @@ sudo yum install whatsie.x86_64   # for 64-bit distros
 3. Start the app with your app launcher or by running `whatsie` in a terminal
 3. Done! The app will NOT update automatically, but you can still check for updates
 
-Repository URL: https://aur.archlinux.org/packages/whatsie/
+Repository URL: https://aur.archlinux.org/packages/whatsie/ [NOT WORKING]
 
-[LR]: https://github.com/Aluxian/Whatsie/releases
+[LR]: https://github.com/Aluxian/Whatsie/releases [NOT WORKING]
 
 # For Developers
 
